@@ -2,6 +2,12 @@
 
 A lightweight utility for responsive layout normalization on React Native using iPhone 11 baselines.
 
+## Installation
+
+```bash
+npm install @aglaonemtech/react-native-responsive-scale
+```
+
 ## API
 
 - `widthScale(size: number, options?: NormalizeOptions): number`

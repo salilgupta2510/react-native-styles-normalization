@@ -4,6 +4,11 @@
   "description": "Responsive React Native dimensions normalization helpers (wp/hp/fp/spV/spH)",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salilgupta/react-native-responsive-scale.git"
+  },
+  "author": "Salil Gupta",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build",
