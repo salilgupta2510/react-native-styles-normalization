@@ -1,4 +1,4 @@
-# react-native-styles-normalization
+# @aglaonemTech/react-native-styles-normalization
 
 A lightweight utility for responsive layout normalization on React Native using iPhone 11 baselines.
 
