@@ -1,5 +1,5 @@
 {
-  "name": "@aglaonemTech/react-native-styles-normalization",
+  "name": "@aglaonemtech/react-native-responsive-scale",
   "version": "1.0.1",
   "description": "Responsive React Native dimensions normalization helpers (wp/hp/fp/spV/spH)",
   "main": "lib/index.js",
