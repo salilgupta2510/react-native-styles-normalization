@@ -1,0 +1,29 @@
+{
+  "name": "react-native-styles-normalization",
+  "version": "1.0.0",
+  "description": "Responsive React Native dimensions normalization helpers (wp/hp/fp/spV/spH)",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "keywords": [
+    "react-native",
+    "responsive",
+    "normalize",
+    "wp",
+    "hp",
+    "fp",
+    "sp"
+  ],
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "@types/react-native": "^0.72.0"
+  },
+  "license": "MIT"
+}
